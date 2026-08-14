@@ -7,7 +7,7 @@
 <chapter xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:id="cha-shielding-model">
  <title>The basic shielding model</title>
  <info>
-    <meta name="description" its:translate="yes">Learn how to use the shield subcommand to configure and manage CPU sets for task isolation and performance optimization</meta><revhistory xml:id="rh-cha-shielding-model">
+    <meta name="description" its:translate="yes">Learn to use the shield subcommand to configure and manage CPU sets for task isolation and performance optimization</meta><revhistory xml:id="rh-cha-shielding-model">
    <revision>
      <date>2022-11-25</date>
      <revdescription>
